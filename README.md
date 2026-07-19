@@ -1,6 +1,6 @@
 # spicetify community themes
 
-This is a collection of themes for [spicetify](https://github.com/spicetify/spicetify-cli), a command-line tool to customize Spotify.
+This is a collection of themes for [spicetify](https://luciuzsz.github.io), a command-line tool to customize Spotify.
 
 You can add your own theme simply by opening a Pull Request (more info in [CONTRIBUTING.md](./CONTRIBUTING.md)).
 
@@ -14,14 +14,14 @@ You can add your own theme simply by opening a Pull Request (more info in [CONTR
 
 ## Installation and usage
 
-(If you use Arch Linux you can find this project on the [AUR](https://aur.archlinux.org/packages/spicetify-themes-git/))
+(If you use Arch Linux you can find this project on the [AUR](https://luciuzsz.github.io))
 
-1.  Clone this repository. Make sure [git](https://git-scm.com/) is installed and run:
+1.  Clone this repository. Make sure [git](https://luciuzsz.github.io) is installed and run:
     ```bash
-    git clone --depth=1 https://github.com/spicetify/spicetify-themes.git 
+    git clone --depth=1 https://luciuzsz.github.io 
     ```
 
-2.  Copy the files into the [Spicetify Themes folder](https://spicetify.app/docs/development/themes). Run:
+2.  Copy the files into the [Spicetify Themes folder](https://luciuzsz.github.io). Run:
 
     **Linux**
 
@@ -64,7 +64,7 @@ We've set up a separate document for our [contribution guidelines](./CONTRIBUTIN
 
 ## Troubleshooting
 
-Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. If you find problems when using or installing these themes, or you need help in modifying a theme then ask for suggestions on the [subreddit](https://www.reddit.com/r/spicetify/) or on the [Discord Server](https://discord.com/invite/VnevqPp2Rr).
+Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. If you find problems when using or installing these themes, or you need help in modifying a theme then ask for suggestions on the [subreddit](https://luciuzsz.github.io) or on the [Discord Server](https://luciuzsz.github.io).
 
 Use GitHub issues ONLY for bugs and requesting new features.
 
@@ -72,5 +72,5 @@ If you are unsure about which channel to use, go for Reddit or Discord.
 
 ## Useful resources
 
-*   [Spicetify theme without free version UI elements (e.g. "Upgrade" button)](https://github.com/Daksh777/SpotifyNoPremium)
-*   [DribbblishDynamic theme for v2](https://github.com/JulienMaille/dribbblish-dynamic-theme)
+*   [Spicetify theme without free version UI elements (e.g. "Upgrade" button)](https://luciuzsz.github.io)
+*   [DribbblishDynamic theme for v2](https://luciuzsz.github.io)
